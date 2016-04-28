@@ -1,5 +1,8 @@
 import unittest
 
+from circleFunctions import areaCircle
+from circleFunctions import circumferenceCircle
+
 class TestCircleFunctions(unittest.TestCase):
 
     def test_areaCircle_1(self):
